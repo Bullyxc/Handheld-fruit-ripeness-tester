@@ -23,7 +23,7 @@
       <img src="assets/IMG_6186.JPG" alt="Preview 3" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="assets/IMG_6179.JPG" alt="Preview 4" width="100%">
+      <img src="assets/IMG_6179.jpg" alt="Preview 4" width="100%">
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="assets/IMG_1745 (2).png" alt="Preview 3" width="100%">
+      <img src="assets/IMG_1745 (2).PNG" alt="Preview 3" width="100%">
     </td>
     <td align="center" width="50%">
       <img src="assets/IMG_6171.JPG" alt="Preview 4" width="100%">
